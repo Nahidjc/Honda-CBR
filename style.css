@@ -33,6 +33,13 @@ a {
 
 }
 
+.button-border {
+    padding: 10px 24px;
+    color: #E76F51;
+    border-radius: 5px;
+    border: 1px solid #E76F51;
+}
+
 /* Fetured Bikes 2021 */
 
 .gray-scale img {
@@ -45,4 +52,17 @@ a {
 .bikes-img {
     width: 288px;
     height: 243px;
+}
+
+/* Card Image  */
+
+/* .card-img-top {
+    display: block;
+    margin: auto;
+    width: 337px;
+    height: 256px;
+} */
+
+.card-middle {
+    padding: 20px;
 }
