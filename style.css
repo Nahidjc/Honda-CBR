@@ -32,3 +32,17 @@ a {
     color: white;
 
 }
+
+/* Fetured Bikes 2021 */
+
+.gray-scale img {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+
+}
+
+.bikes-img {
+    width: 288px;
+    height: 243px;
+}
